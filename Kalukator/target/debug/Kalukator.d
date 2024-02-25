@@ -1,1 +1,1 @@
-C:\Users\Ander\OneDrive\Documents\GitHub\KalkulatorOppgave\Kalukator\target\debug\Kalukator.exe: C:\Users\Ander\OneDrive\Documents\GitHub\KalkulatorOppgave\Kalukator\src\main.rs
+C:\Users\morte\OneDrive\Dokumenter\KalkulatorOppgave\Kalukator\target\debug\Kalukator.exe: C:\Users\morte\OneDrive\Dokumenter\KalkulatorOppgave\Kalukator\src\main.rs
